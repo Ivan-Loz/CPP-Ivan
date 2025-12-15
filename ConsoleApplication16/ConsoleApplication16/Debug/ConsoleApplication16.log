@@ -1,0 +1,4 @@
+﻿  ConsoleApplication16.cpp
+  UserAccount.cpp
+C:\Users\Ученик_1\source\repos\ConsoleApplication16\ConsoleApplication16\UserAccount.h(4,10): fatal error C1083: Не удается открыть файл включение: Admin.h: No such file or directory,
+  Создание кода...
