@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Ученик_1\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(95): warning C4715: days: значение возвращается не при всех путях выполнения
+  ConsoleApplication3.vcxproj -> C:\Users\Ученик_1\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe

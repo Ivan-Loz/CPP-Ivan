@@ -1,0 +1,14 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(70,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(71,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(73,11): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(74,11): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(76,12): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(81,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(89,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(90,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(99,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(102,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(114,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ученик_1\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(117,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\Ученик_1\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
