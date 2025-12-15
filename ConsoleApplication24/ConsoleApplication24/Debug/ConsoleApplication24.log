@@ -1,0 +1,2 @@
+﻿  ConsoleApplication24.cpp
+C:\Users\Ученик_1\source\repos\ConsoleApplication24\ConsoleApplication24\ConsoleApplication24.cpp(23): error C4700: использована неинициализированная локальная переменная "per"
