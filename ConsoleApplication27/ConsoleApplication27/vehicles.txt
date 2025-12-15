@@ -1,0 +1,6 @@
+Тип Обычный Скорость 99
+Тип Крутой Скорость 43
+Тип Пупер класс Скорость 880
+Имя Bars Звук RRRRRRRRRТип еды Miso
+Имя Zzzaikka Звук rggrgrgrgrggrТип еды vseadni
+Имя Slon Звук tyyyyyyyyТип еды trava
